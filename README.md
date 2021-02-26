@@ -18,17 +18,17 @@ Logic to find the input word:
 5. If the given input word is not found in the input text file, the text file is not created for it to save the memory. 
 6. Instead, the message is popped up to the user as : The word is not found in the file. 
 
-Total no. of classes : 2|-------
-Total no. of methods : 2|-------
-Total objects        : 1|-------
+Total no. of classes : "2" |-------
+Total no. of methods : "2" |-------
+Total objects        : "1" |
 
-sample inputs         sample outputs|-----
+sample inputs    |     sample outputs|-----
 
-software              **"software.txt"**|-----
+software         |    **"software.txt"**|-----
                       ..... software .....  (word not found at index 0 and end-1)|-----
                       software              (word found at index 0 or end-1)|-----
-                      Total number of repitition of word is ....|-----
+                      Total number of repitition of word is ....|
                       
-soft                  The word is not found in the given input file|-----
+soft             |     The word is not found in the given input file|
                       
                       
