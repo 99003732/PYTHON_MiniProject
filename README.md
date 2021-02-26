@@ -24,11 +24,11 @@ Total objects        : "1" |
 
 sample inputs    |     sample outputs|-----
 
-software         |    **"software.txt"**|-----
+1. software         |    **"software.txt"**|-----
                       ..... software .....  (word not found at index 0 and end-1)|-----
                       software              (word found at index 0 or end-1)|-----
                       Total number of repitition of word is ....|
                       
-soft             |     The word is not found in the given input file|
+2. soft             |     The word is not found in the given input file|
                       
                       
